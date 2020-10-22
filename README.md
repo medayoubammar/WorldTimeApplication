@@ -1,5 +1,5 @@
 # worldtimeapp
-
+![](demo.gif)
 World Time App
 
 ## Getting Started
